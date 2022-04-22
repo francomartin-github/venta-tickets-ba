@@ -47,12 +47,13 @@
 
 .parrafo-hero {
   font-size: 18px;
+  margin-bottom: 30px;
 }
 
 .hero.container .row.fila-botones button {
   width: 100%;
-  padding: 15px;
-  font-size: 18px;
+  padding: 14px;
+  font-size: 16px;
 }
 
 /*------ESTILOS MAIN--------*/
@@ -104,9 +105,23 @@
 }
 
 .ser-orador .container {
-  max-width: 80%;
+  max-width: 720px;
 }
 
-.datos {
-  padding: 10px;
+
+/*------ESTILOS FOOTER--------*/
+
+footer .nav {
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+footer {
+  height: 100px;
+  background-color: rgb(33, 80, 122);
+} 
+
+footer ul a.nav-link {
+  color: white;
 }
