@@ -1,0 +1,111 @@
+/*---------ESTILOS HEADER-----------*/
+
+/*------ESTILOS NAVBAR--------*/
+.logo-codoAcodo {
+  height: 80px;
+}
+
+#navbarSupportedContent {
+  justify-content: space-between;
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+
+#navcta {
+  color: green;
+}
+
+/*------ESTILOS HERO--------*/
+
+.hero.container {
+  max-width: 100%;
+  padding: 0;
+  background-image: url("../img/ba1.jpg");
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 100px;
+}
+
+.hero.container .row.fila-texto {
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 100%;
+  color: white;
+  align-items: center;
+  padding: 0 10%;
+}
+
+.parrafo-hero,
+.titular {
+  text-align: right;
+  font-weight: 600;
+}
+
+.parrafo-hero {
+  font-size: 18px;
+}
+
+.hero.container .row.fila-botones button {
+  width: 100%;
+  padding: 15px;
+  font-size: 18px;
+}
+
+/*------ESTILOS MAIN--------*/
+
+.titulo-main {
+  text-align: center;
+  font-size: 18px;
+}
+
+.titulo-main span {
+  font-size: 32px;
+}
+
+.principal .container {
+  margin: auto;
+  margin-bottom: 100px;
+}
+
+/*------ESTILOS SECTION LUGAR--------*/
+
+.lugar {
+  max-width: 90%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.lugar .card-title {
+  font-size: 28px;
+}
+
+/*------ESTILOS FORMULARIO--------*/
+
+.charla {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.formulario {
+  margin: auto;
+  margin-bottom: 100px;
+}
+
+.formulario .boton {
+  text-align: center;
+}
+
+.formulario button {
+  width: 100%;
+}
+
+.ser-orador .container {
+  max-width: 80%;
+}
+
+.datos {
+  padding: 10px;
+}
