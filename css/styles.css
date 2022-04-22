@@ -83,6 +83,10 @@
   font-size: 28px;
 }
 
+.lugar .card {
+  border-radius: 0;  
+}
+
 /*------ESTILOS FORMULARIO--------*/
 
 .charla {
