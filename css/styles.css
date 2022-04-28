@@ -17,6 +17,10 @@
   color: green;
 }
 
+.ancho90 {
+  width: 90%;
+}
+
 /*------ESTILOS HERO--------*/
 
 .hero.container {
